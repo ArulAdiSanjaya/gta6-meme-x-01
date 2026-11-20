@@ -1,0 +1,6 @@
+*.png
+*.webp
+*.svg
+*.json
+!POST.json
+skill.md
